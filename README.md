@@ -1,1 +1,0 @@
-# Manage-a-VeloCloud-Gateway-via-the-VCO-API---Java
